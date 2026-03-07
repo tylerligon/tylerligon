@@ -1,4 +1,8 @@
-## Hi there 👋
+## hello, im tyler ligon!
+- junior cs at rutgers university
+- focusing on backend, infra, ml
+- open to all development roles
+- Reach me at: tylerligon@proton.me
 
 <!--
 **tylerligon/tylerligon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
