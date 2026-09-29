@@ -1,5 +1,5 @@
 ## hello, im tyler ligon!
-- junior cs at rutgers university
+- senior studying cs @ rutgers university
 - focusing on backend, infra, ml
 - open to all development roles
 - Reach me at: tylerligon@proton.me
